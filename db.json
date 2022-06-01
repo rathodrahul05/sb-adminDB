@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "firstName": "rahul",
+      "lastName": "rathod",
+      "email": "r@gmail.com",
+      "gender": "Male",
+      "technicalSkills": [
+        "Node",
+        "React",
+        "JavaScript"
+      ],
+      "location": "Mumbai",
+      "id": 1
+    },
+    {
+      "firstName": "katrina",
+      "lastName": "kaif",
+      "email": "kat@gmail.com",
+      "gender": "Female",
+      "technicalSkills": [
+        "React"
+      ],
+      "location": "Mumbai",
+      "id": 2
+    },
+    {
+      "firstName": "carl",
+      "lastName": "johnson",
+      "email": "carl@gmail.com",
+      "gender": "Male",
+      "technicalSkills": [
+        "React",
+        "JavaScript",
+        "Mongo DB"
+      ],
+      "location": "Ahmedabad",
+      "id": 3
+    },
+    {
+      "firstName": "jas",
+      "lastName": "k",
+      "email": "jas@gmail.com",
+      "gender": "Female",
+      "technicalSkills": [
+        "React"
+      ],
+      "location": "Hyderabad",
+      "id": 4
+    }
+  ]
+}
