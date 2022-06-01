@@ -1,0 +1,17 @@
+{
+  "name": "data-server",
+  "version": "1.0.0",
+  "description": "sb-admin",
+  "main": "index.js",
+  "engines": {
+    "node": "6.11.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Rahul Rathod",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
